@@ -1,2 +1,2 @@
 # PandasPractice
-LEarning pndas
+Learning pndas
